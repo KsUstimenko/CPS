@@ -1,0 +1,8 @@
+/*HOVER*/
+.link {
+  &:hover {
+    cursor: pointer;
+    color: var(--pink);
+    transform: scale(1.01);
+  }
+}

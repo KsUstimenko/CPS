@@ -1,0 +1,9 @@
+@mixin icon-text {
+  background-color: var(--background);
+  display: flex;
+  align-items: center;
+  margin: 10px 0 0 32px;
+}
+.icon-text svg {
+  margin-right: 10px;
+}

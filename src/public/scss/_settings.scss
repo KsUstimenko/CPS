@@ -1,0 +1,13 @@
+* {
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+html {
+  box-sizing: border-box;
+}
+body {
+  background-color: var(--background);
+  font: 400 16px/24px TT-Lakes Regular, sans-serif;
+  color: var(--black);
+}

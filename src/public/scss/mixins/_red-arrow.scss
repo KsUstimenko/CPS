@@ -1,0 +1,7 @@
+@mixin red-arrow {
+	width: 40px;
+	height: 40px;
+	border: 2px solid var(--pink);
+	background-color: var(--white);
+	border-radius: 50%;
+}
